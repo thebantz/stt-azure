@@ -15,7 +15,7 @@ Open [http://localhost:3000/browser](http://localhost:3000/browser) to view it i
 
 The page will reload if you make edits.<br />
 
-The project is designated to have its own corresponding token that matches the program. Ask for the credentials from repo owner **thebantz** to enable speech recognition functionality!
+The project is designated to have its own corresponding token that matches the program. Ask for the credentials from repo owner [**@thebantz**](https://github.com/thebantz) to enable speech recognition functionality!
 
 
 
