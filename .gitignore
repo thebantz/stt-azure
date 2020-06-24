@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # token for microsoft azure
-public/token.php
+public/browser/token.php
